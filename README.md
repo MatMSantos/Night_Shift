@@ -1,5 +1,18 @@
 # Night Shift
 
+A peaceful night at the museum is interrupted when a stray dog (clearly not an appreciator of the arts) starts destroying everything he sees!
+As the security guard for the night, it's your job to keep everything in its place.
+
+## Screenshots:
+
+![ns_splash](https://user-images.githubusercontent.com/68665056/169908922-ee4b4373-0f14-43ea-942c-d2166d405a89.png)
+
+![night shift gameplay_Moment](https://user-images.githubusercontent.com/68665056/169912035-6b0ed8cc-5ec0-4f4c-947f-acdee4eeb510.jpg)
+
+![night shift gameplay_Moment2](https://user-images.githubusercontent.com/68665056/169912053-abdeeb43-e138-4d60-b737-0483ab5d6b0a.jpg)
+
+---
+
 ## SPRINT 1 (25/02)
 
 1. Cachorro seleciona objeto para interagir
